@@ -59,6 +59,10 @@
     "components/tooltip/tooltip",
     "components/tree/tree",
     "components/widgets/upload",
-    "components/widgets/download"
+    "components/widgets/download",
+    "breakpoints/S",
+    "breakpoints/M",
+    "breakpoints/L",
+    "breakpoints/XL"
   ]
 }

@@ -1,0 +1,10 @@
+{
+  "minWidth": {
+    "value": "1280",
+    "type": "spacing"
+  },
+  "maxWidth": {
+    "value": "1365",
+    "type": "spacing"
+  }
+}
