@@ -844,7 +844,7 @@
       }
     },
     "font": {
-      "font-family": {
+      "family": {
         "brand": {
           "value": "Nunito Sans",
           "type": "fontFamilies"
@@ -854,7 +854,7 @@
           "type": "fontFamilies"
         }
       },
-      "font-weight": {
+      "weight": {
         "semibold": {
           "value": "600",
           "type": "fontWeights"
@@ -878,7 +878,7 @@
           }
         }
       },
-      "font-size": {
+      "size": {
         "xxxs": {
           "value": "0.75rem",
           "type": "fontSizes",

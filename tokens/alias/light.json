@@ -436,9 +436,9 @@
       "heading": {
         "xxxl": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.xxxl}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.xxxl}",
             "lineHeight": "{global.font.line-height.xxxl}"
           },
           "type": "typography",
@@ -446,9 +446,9 @@
         },
         "xxl": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.extrabold}",
-            "fontSize": "{global.font.font-size.xxl}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.extrabold}",
+            "fontSize": "{global.font.size.xxl}",
             "lineHeight": "{global.font.line-height.xl}"
           },
           "type": "typography",
@@ -456,9 +456,9 @@
         },
         "xl": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.xl}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.xl}",
             "lineHeight": "{global.font.line-height.l}"
           },
           "type": "typography",
@@ -466,9 +466,9 @@
         },
         "l": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.l}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.l}",
             "lineHeight": "{global.font.line-height.m}"
           },
           "type": "typography",
@@ -476,9 +476,9 @@
         },
         "m": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.m}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.m}",
             "lineHeight": "{global.font.line-height.s}"
           },
           "type": "typography",
@@ -486,9 +486,9 @@
         },
         "s": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.s}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.s}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -496,9 +496,9 @@
         },
         "xs": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xxs}"
           },
           "type": "typography",
@@ -506,9 +506,9 @@
         },
         "overline": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.extrabold}",
-            "fontSize": "{global.font.font-size.xxxs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.extrabold}",
+            "fontSize": "{global.font.size.xxxs}",
             "lineHeight": "{global.font.line-height.xxxs}"
           },
           "type": "typography",
@@ -528,9 +528,9 @@
       "body": {
         "regular": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.regular.normal}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.regular.normal}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -538,9 +538,9 @@
         },
         "semibold": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.semibold}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.semibold}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -548,9 +548,9 @@
         },
         "bold": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.bold}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.bold}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -558,9 +558,9 @@
         },
         "extrabold": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.extrabold}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.extrabold}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -568,9 +568,9 @@
         },
         "list": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.regular.normal}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.regular.normal}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography",
@@ -578,9 +578,9 @@
         },
         "italic": {
           "value": {
-            "fontFamily": "{global.font.font-family.brand}",
-            "fontWeight": "{global.font.font-weight.regular.italic}",
-            "fontSize": "{global.font.font-size.xs}",
+            "fontFamily": "{global.font.family.brand}",
+            "fontWeight": "{global.font.weight.regular.italic}",
+            "fontSize": "{global.font.size.xs}",
             "lineHeight": "{global.font.line-height.xs}"
           },
           "type": "typography"
@@ -590,9 +590,9 @@
         "semibold": {
           "l": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.semibold}",
-              "fontSize": "{global.font.font-size.s}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.semibold}",
+              "fontSize": "{global.font.size.s}",
               "lineHeight": "{global.font.line-height.xs}"
             },
             "type": "typography",
@@ -600,9 +600,9 @@
           },
           "s": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.semibold}",
-              "fontSize": "{global.font.font-size.xs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.semibold}",
+              "fontSize": "{global.font.size.xs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography",
@@ -610,9 +610,9 @@
           },
           "xs": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.semibold}",
-              "fontSize": "{global.font.font-size.xxxs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.semibold}",
+              "fontSize": "{global.font.size.xxxs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography",
@@ -622,9 +622,9 @@
         "bold": {
           "l": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.bold}",
-              "fontSize": "{global.font.font-size.s}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.bold}",
+              "fontSize": "{global.font.size.s}",
               "lineHeight": "{global.font.line-height.xs}"
             },
             "type": "typography",
@@ -632,9 +632,9 @@
           },
           "s": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.bold}",
-              "fontSize": "{global.font.font-size.xs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.bold}",
+              "fontSize": "{global.font.size.xs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography",
@@ -642,9 +642,9 @@
           },
           "xs": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.bold}",
-              "fontSize": "{global.font.font-size.xxxs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.bold}",
+              "fontSize": "{global.font.size.xxxs}",
               "lineHeight": "0.875rem"
             },
             "type": "typography",
@@ -654,9 +654,9 @@
         "regular": {
           "s": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.regular.normal}",
-              "fontSize": "{global.font.font-size.xs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.regular.normal}",
+              "fontSize": "{global.font.size.xs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography",
@@ -664,9 +664,9 @@
           },
           "xs": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.regular.normal}",
-              "fontSize": "{global.font.font-size.xxxs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.regular.normal}",
+              "fontSize": "{global.font.size.xxxs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography",
@@ -674,9 +674,9 @@
           },
           "placeholder": {
             "value": {
-              "fontFamily": "{global.font.font-family.brand}",
-              "fontWeight": "{global.font.font-weight.regular.italic}",
-              "fontSize": "{global.font.font-size.xs}",
+              "fontFamily": "{global.font.family.brand}",
+              "fontWeight": "{global.font.weight.regular.italic}",
+              "fontSize": "{global.font.size.xs}",
               "lineHeight": "{global.font.line-height.xxxs}"
             },
             "type": "typography"
@@ -685,9 +685,9 @@
       },
       "code": {
         "value": {
-          "fontFamily": "{global.font.font-family.code}",
-          "fontWeight": "{global.font.font-weight.regular.normal}",
-          "fontSize": "{global.font.font-size.xxs}",
+          "fontFamily": "{global.font.family.code}",
+          "fontWeight": "{global.font.weight.regular.normal}",
+          "fontSize": "{global.font.size.xxs}",
           "lineHeight": "{global.font.line-height.xs}"
         },
         "type": "typography",
